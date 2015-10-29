@@ -1,0 +1,10 @@
+List of Commands
+Cd - Open
+Ls - List
+Clone - git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+Cat - View file
+gedit - text typing
+git add - Adding current data to local drive
+git commit -m "Comment" - Milestone marker that updates current data and adds to github when pushed
+git push - Sends all new local data to github repository
+Git push password is invisible
