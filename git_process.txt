@@ -1,0 +1,12 @@
+1. Start Terminal by holding the windows key on your keyboard while doubke tapping the spacebar. Then type in terminal in the search bar and click enter. Terminal is the black icon with a greater thansign and a underscore on it.  
+2. Clone your github repository using the clone command
+git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+3. Open your repository using command cd repository name 
+4. Enter text command gedit name_of_your_file &
+5. When the file pops up, type what you like and then save it.
+6. Then, go back to terminal and type the command git add name_of_your_file.
+7 Then type the command git commit -m "Description of what you did to the file"
+8. Then type git push and wait for the authentication to come up
+9. When the username bar pops up, type your github username
+10. When the password bar pops up, type your password for github. Note that when you type the password, no text will come up but you are still typing.
+11. Hit enter when you are done and you will have put the file ontop yout github repository.
