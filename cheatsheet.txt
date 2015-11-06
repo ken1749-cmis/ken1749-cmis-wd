@@ -9,3 +9,6 @@ git commit -m "Comment" - Milestone marker that updates current data and adds to
 git push - Sends all new local data to github repository
 Git push password is invisible
 python -m SimpleHTTPServer - starting test server
+sftp - Server Encyrption Protocol
+pwd - location in sftp
+ken1749@cmis-hsteacher - Code for sftp starter
