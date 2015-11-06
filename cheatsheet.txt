@@ -12,3 +12,10 @@ python -m SimpleHTTPServer - starting test server
 sftp - Server Encyrption Protocol
 pwd - location in sftp
 ken1749@cmis-hsteacher - Code for sftp starter
+put - move files with sftp
+If in Terminal=Repository 
+If in sftp=public_html
+To remove something from sftp public_html, type rm
+!clear - clear screen while using sftp
+put * - putting all files into public_html shortcut using sftp
+
