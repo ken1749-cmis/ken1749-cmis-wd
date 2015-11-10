@@ -17,21 +17,21 @@ nav {
 	color:purple;
 	font-size:30px;
 	background-color:yellow;
-	border:dashed 7px black;
+	border:inset 7px black;
 }
 main {
 	font-family:arial;
 	color:purple;
 	font-size:30px;
 	background-color:#FF00FF;
-	border:dashed 50px red;
+	border:groove 50px red;
 }
 h2 {
 	font-family:arial;
 	color:black;
 	font-size:40px;
 	background-color:purple;
-	border:solid 10px pink;
+	border:dotted 10px pink;
 }
 p {
 	font-family:arial;
@@ -45,5 +45,5 @@ footer {
 	color:red;
 	font-size:25px;
 	background-color:pink;
-	border:dashed 30px #99FF33;
+	border:outset 30px #99FF33;
 }
