@@ -1,31 +1,49 @@
 header {
 	font-family:arial;
 	color:red;
-	font-size:50px
+	font-size:50px;
+	background-color:black;
+	border:solid 25px yellow;
 }
 h1 {
 	font-family:verdana;
-	color:blue;
+	color:white;
 	font-size:40px;
+	background-color:blue;
+	border:dashed 10px black;
 }
 nav {
 	font-family:Times New Roman;
 	color:purple;
 	font-size:30px;
+	background-color:yellow;
+	border:dashed 7px black;
 }
 main {
 	font-family:arial;
 	color:purple;
 	font-size:30px;
+	background-color:#FF00FF;
+	border:dashed 50px red;
 }
 h2 {
-	font-family:consolas;
-	color:green;
+	font-family:arial;
+	color:black;
 	font-size:40px;
+	background-color:purple;
+	border:solid 10px pink;
 }
 p {
 	font-family:arial;
 	color:orange;
 	font-size:30px;
 	background-color:yellow;
-	border:solid 1px #blue;
+	border:dashed 15px blue;
+}
+footer { 
+	font-family:sans-serif;
+	color:red;
+	font-size:25px;
+	background-color:pink;
+	border:dashed 30px #99FF33;
+}
