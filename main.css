@@ -4,13 +4,22 @@ header {
 	font-size:50px;
 	background-color:black;
 	border:solid 25px yellow;
+	border-left-color:#99FF33;
+	border-left-style:dashed;
+	border-top-color:#FF00FF;
+	border-top-style:inset;
+	border-bottom-color:orange;
+	border-bottom-style:outset;
 }
 h1 {
-	font-family:verdana;
+	font-family:courier new;
 	color:white;
 	font-size:40px;
+	font-style:italic;
 	background-color:blue;
 	border:dashed 10px black;
+	border-left-width:60px;
+	border-bottom-width:70px;
 }
 nav {
 	font-family:Times New Roman;
@@ -24,26 +33,54 @@ main {
 	color:purple;
 	font-size:30px;
 	background-color:#FF00FF;
-	border:groove 50px red;
+	border:outset 50px red;
+	border-style:dotted solid double;
+	border-left-color:yellow;
+	border-right-color:green;
+	border-top-color:#99FF33;
+	border-bottom-style:dotted;
+	border-top-style:groove;
+	border-left-style:dashed;
 }
 h2 {
-	font-family:arial;
+	font-family:impact;
 	color:black;
 	font-size:40px;
+	font-style:oblique;
 	background-color:purple;
 	border:dotted 10px pink;
+	border-style:dotted solid double dashed;
+	border-left-color:red;
+	border-right-color:#00FFFF;
+	border-top-color:#ff0066;
+	border-bottom-color:#00ccff;
 }
 p {
-	font-family:arial;
+	font-family:times new roman;
 	color:orange;
 	font-size:30px;
+	font-weight:bolder;
 	background-color:yellow;
 	border:dashed 15px blue;
+	border-top-color:#00cc66;
+	border-bottom-style:solid;
+	border-bottom-color:#00ffff;
+	border-left-style:groove;
+	border-right-style:ridge;
+	border-top-width:50px;
 }
 footer { 
-	font-family:sans-serif;
-	color:red;
+	font-family:arial black;
+	color:#FF00FF;
 	font-size:25px;
-	background-color:pink;
-	border:outset 30px #99FF33;
+	background-color:blue;
+	border:double 30px #99FF33;
+	border-left-color:#66ffcc;
+	border-right-color:#FF00FF;
+	border-bottom-style:groove;
+	border-left-style:solid;
+	border-top-style:inset;
+	border-bottom-width:60px;
+	font-variant:small-caps;
+
 }
