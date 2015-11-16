@@ -1,0 +1,90 @@
+h1 {
+background-color:green;
+border-bottom-style:dashed;
+border-bottom-color:yellow;
+border-bottom-width:5px;
+color:yellow;
+font-family:impact;
+font-style:italic;
+}
+p {
+background-color:red;
+font-family:impact;
+font-style:italic;
+color:blue;
+line-height:10px;
+}
+p2 {
+color:blue;
+font-family:impact;
+font-style:italic;
+line-height:40px;
+}
+header {
+background-color:red;
+border-bottom-style:dashed;
+border-bottom-color:yellow;
+border-bottom-width:10px;
+}
+h2 {
+background-color:purple;
+color:yellow;
+font-family:arial;
+}
+h3 {
+background-color:yellow;
+color:purple;
+border-top-color:purple;
+border-top-style:dashed;
+border-top-width:3px;
+font-family:arial;
+}
+main {
+border-left-style:groove;
+border-right-style:groove;
+border-left-color:orange;
+border-right-color:orange;
+border-collapse:collapse;
+border-width:10px;
+}
+footer {
+color:blue;
+border-left-color:red;
+border-left-style:solid;
+border-right-color:blue;
+border-right-style:solid;
+border-top-color:black;
+border-top-style:dotted;
+border-top-width:3px;
+border-right-width:10px;
+border-left-width:10px;
+line-height:30px;
+}
+p3 {
+color:blue;
+line-height:5px;
+font-family:arial;
+}
+p4 {
+color:blue;
+line-height:30px;
+font-family:arial;
+}
+p5 {
+color:blue;
+font-family:arial;
+}
+p6 {
+color:blue;
+font-family:arial;
+}
+p7 {
+color:blue;
+line-height:5px;
+font-family:arial;
+}
+p8 {
+color:blue;
+line-height:30px;
+font-family:arial;
+}
