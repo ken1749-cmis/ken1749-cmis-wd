@@ -22,12 +22,16 @@ margin:auto;
 width:250px;
 padding-left:5px;
 padding-bottom:5px;
+float:left;
+clear:left;
 }
 h2 {
 margin-left:700px;
 border-style:groove;
 border-color:black;
 width:200px;
+float:left;
+clear:left;
 }
 nav {
 float:left;
@@ -42,9 +46,36 @@ border-bottom-style:inset;
 border-color:black;
 width:350px;
 margin:auto;
+clear:left;
 }
 img {
-float:center;
-margin-left:auto;
-margin-right:auto;
+float:right;
+clear:right;
+vertical-align:text-top;
+}
+p {
+vertical-align:text-top;
+color:white;
+background-color:black;
+font-family:Oswald;
+width:500px;
+float:left;
+clear:left;
+}
+section {
+clear:left;
+margin:30px;
+}
+article {
+color:black;
+background-color:white;
+border-style:solid;
+border-color:black;
+border-width:3px;
+border-bottom-style:groove;
+font-family:Oswald;
+margin:auto;
+width:250px;
+padding-left:5px;
+padding-bottom:5px;
 }
